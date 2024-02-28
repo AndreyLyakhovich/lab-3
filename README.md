@@ -24,7 +24,10 @@
 
 Все скриншоты находятся в директории /report/
 
-Интернет соединение Машины А ![](https://github.com/AndreyLyakhovich/lab-3/blob/45edddddc6232b72653aea0a55ab84d697826105/report/machine_A_internet_connection.jpeg)
+Интернет соединение Машины А 
+
+![](https://github.com/AndreyLyakhovich/lab-3/blob/45edddddc6232b72653aea0a55ab84d697826105/report/machine_A_internet_connection.jpeg)
+
 ip машины А 
 
 ![](https://github.com/AndreyLyakhovich/lab-3/blob/45edddddc6232b72653aea0a55ab84d697826105/report/ubuntu_machine_A.jpeg)
